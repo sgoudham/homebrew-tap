@@ -1,4 +1,4 @@
-class UwUifyy < Formula
+class Uwuifyy < Formula
   desc "A robust, customizable, efficient and easy-to-use command line application to uwu'ify your text!"
   homepage "https://github.com/sgoudham/uwuifyy"
   url "https://github.com/sgoudham/uwuifyy/releases/download/v0.1.1/uwuifyy-x86_64-apple-darwin.tar.gz"
