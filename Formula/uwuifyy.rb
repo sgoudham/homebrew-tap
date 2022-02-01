@@ -2,7 +2,7 @@ class Uwuifyy < Formula
   desc "A robust, customizable, efficient and easy-to-use command line application to uwu'ify your text!"
   homepage "https://github.com/sgoudham/uwuifyy"
   url "https://github.com/sgoudham/uwuifyy/releases/download/v0.2.0/uwuifyy-x86_64-apple-darwin.tar.gz"
-  sha256 "813cfb16c72237c3fc7cb24cc744813a19e88bdd6225a6ac9dfe6dd3498e8f08"
+  sha256 "42d6a8bda98579b833d0a4879ab4f2255830982b73e5d3ee83c298c333ec9cca"
   version "0.2.0"
   license "MIT"
 
