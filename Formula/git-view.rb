@@ -6,6 +6,6 @@ class GitView < Formula
   license "MIT"
 
   def install
-    bin.install "git-view-x86_64-apple-darwin/git-view"
+    bin.install "git-view"
   end
 end
